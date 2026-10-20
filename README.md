@@ -104,7 +104,7 @@ Add screenshots of the following to this repository to demonstrate your implemen
 - Successful WAR deployment
   <img width="1905" height="547" alt="Screenshot 2026-10-20 185016" src="https://github.com/user-attachments/assets/2ab9e590-71ae-4c78-89ea-887165616a79" />
   <img width="1902" height="617" alt="Screenshot 2026-10-20 185055" src="https://github.com/user-attachments/assets/a407ef47-b0e0-4bd5-b128-02db105a5e19" />
-<img width="1870" height="895" alt="Screenshot 2026-10-20 185117" src="https://github.com/user-attachments/assets/82a06d54-472c-4a93-884c-96740b6b8a56" />
+  <img width="1870" height="895" alt="Screenshot 2026-10-20 185117" src="https://github.com/user-attachments/assets/82a06d54-472c-4a93-884c-96740b6b8a56" />
 
 - Running application in the browser
   <img width="1531" height="696" alt="TomcatDeployment" src="https://github.com/user-attachments/assets/9f7e03e4-9ad9-4614-9b3c-a144bedfa33d" />
