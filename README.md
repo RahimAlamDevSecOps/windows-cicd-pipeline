@@ -36,6 +36,9 @@ The pipeline integrates Git, GitHub, Jenkins, Apache Ant, Checkstyle, and Apache
             v
      Running Web Application
 ```
+Architecture Diagram:
+<img width="1536" height="1024" alt="DevOps CI_CD Pipeline Architecture" src="https://github.com/user-attachments/assets/1d6e4acd-373d-4ea9-acf8-17a80aaeadff" />
+
 
 ## 🛠️ Technologies Used
 
